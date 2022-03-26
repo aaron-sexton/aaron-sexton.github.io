@@ -72,7 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
-    .smaller {font-size:80%}
+/* Smaller font */
+    .smaller {
+		font-size:80%
+	}
+
 /* Row */
 
 	.row {
