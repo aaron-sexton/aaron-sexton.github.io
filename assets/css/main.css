@@ -77,11 +77,6 @@ input, select, textarea {
 		font-size:80%;
 	}
 
-/* Button grid */
-	.grid-container {
-		display: grid;
-	}
-
 /* Collapsible buttons */
 	.collapsible {
 		background-color: rgb(255, 255, 255);
