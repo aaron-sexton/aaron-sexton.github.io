@@ -74,7 +74,12 @@ input, select, textarea {
 
 /* Smaller font */
     .smaller {
-		font-size:80%
+		font-size:80%;
+	}
+
+/* Button grid */
+	.grid-container {
+		display: grid;
 	}
 
 /* Collapsible buttons */
@@ -99,6 +104,7 @@ input, select, textarea {
   	.content {
 		padding: 0 18px;
 		display: none;
+		overflow: hidden;
 		background-color: #f1f1f1;
 	}
 
